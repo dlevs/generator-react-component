@@ -1,4 +1,4 @@
-import { h, Component } from 'preact';
+<%= jsxImport %>
 // import s from './<%= componentName %>.css';
 
 // export default () => (

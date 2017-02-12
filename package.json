@@ -1,7 +1,8 @@
 {
-  "name": "generator-component",
+  "name": "generator-react-component",
   "version": "0.0.1",
   "description": "A react component generator for yeoman",
+  "repository": "https://github.com/dlevs/generator-react-component",
   "files": [
     "generators/app"
   ],

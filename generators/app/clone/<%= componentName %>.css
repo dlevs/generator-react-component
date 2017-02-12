@@ -1,4 +1,4 @@
-@import "../styles/mixins.css";
-.canvas {
-	flex-grow: 1;
+@import "<%= stylesDirName %>styles/mixins.css";
+.wrapper {
+
 }
